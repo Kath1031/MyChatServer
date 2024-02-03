@@ -1,1 +1,3 @@
 # MyChatServer
+
+`$ cmake -B ./build/`
